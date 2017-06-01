@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.github.sarxos.webcam.WebcamMotionDetector"/>
+<fullyQualifiedTypeName name="com.github.sarxos.webcam.Webcam"/>
+<fullyQualifiedTypeName name="com.github.sarxos.webcam.WebcamMotionListener"/>
+<fullyQualifiedTypeName name="java.net.ServerSocket"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="MotionDetector"/>
+</qualifiedTypeNameHistroy>
